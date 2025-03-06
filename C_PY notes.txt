@@ -1,7 +1,10 @@
 MTD COMPETED TRAINING
 DAY-1 THURSDAY(06/03/2025)
 	
+my URL :- https://github.com/ajeya8204/MTD_C_PY.git
+ 	
 git clone <URL>
+git clone https://github.com/neelmyna/vvce_mar25
 //to download a repo
 
 git status
