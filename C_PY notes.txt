@@ -1,0 +1,11 @@
+MTD COMPETED TRAINING
+DAY-1 THURSDAY(06/03/2025)
+	
+git clone <URL>
+//to download a repo
+
+git status
+//know the status of repo
+
+git pull origine origine main
+//command to download updated repo from server to local machine(PC/Laptop)
