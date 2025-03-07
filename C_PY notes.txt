@@ -12,3 +12,30 @@ git status
 
 git pull origine origine main
 //command to download updated repo from server to local machine(PC/Laptop)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DAY-2 FRIDAY (07/03/2025)
+
+Arithematic operators : +, -, *, /, %
+I/P and O/P are numbers
+To perform arithematic operation data types of both operands must be the same
+left to right associtivity WRT reading the values
+The operators have different hierarchy
+
+Relational operators : >, <, >=, <=, ==, =!
+I/P is a number but O/P is a boolian(true/false)
+a++ => post increment(first use and then increment)
+++a => pre increment (first increment and then use)
+
+5 steps to solve a problem
+1. understand the problem.recognise the I/P and relevent information.isolate unwanted info and recognise the O/P.
+2.find the solution in all possible ways using trial and error method.
+3.Write down the algorithm
+  step by step procedureto solve the problem.
+  each step should simple and finite
+4.write the pseudocode(Fake code)
+5.code it
+
+
+
